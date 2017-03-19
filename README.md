@@ -1,4 +1,4 @@
-Paweł Luszuk
+# Paweł Luszuk
 
 Architektura serwisów internetowych zaliczenie
 
@@ -11,4 +11,6 @@ Battleships - serwis internetowy, w którym użytkownik może zagrać w statki z
 |    2.4.0   |  5.0.1 | 
 
 # Dodatkowe gemy:
+
 - devise
+- bootstrap-sass
