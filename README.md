@@ -5,6 +5,8 @@ Architektura serwisów internetowych zaliczenie
 Battleships - serwis internetowy, w którym użytkownik może zagrać w statki z AI lub w trybie hot-seat z innym graczem.
 
 [Link do serwisu](https://asibattleships.herokuapp.com)
+[Zasady Gry](https://pl.wikipedia.org/wiki/Okr%C4%99ty)
+
 
 | Wersja Ruby   | Wersja Rails  |
 |------------|---------|
@@ -14,3 +16,6 @@ Battleships - serwis internetowy, w którym użytkownik może zagrać w statki z
 
 - devise
 - bootstrap-sass
+- sqlite3 (lokalnie)
+- postgres (heroku)
+- autoprefixer-rails
