@@ -1,24 +1,14 @@
-# README
+Paweł Luszuk
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Architektura serwisów internetowych zaliczenie
 
-Things you may want to cover:
+Battleships - serwis internetowy, w którym użytkownik może zagrać w statki z AI lub w trybie hot-seat z innym graczem.
 
-* Ruby version
+[Link do serwisu](https://asibattleships.herokuapp.com)
 
-* System dependencies
+| Wersja Ruby   | Wersja Rails  |
+|------------|---------|
+|    2.4.0   |  5.0.1 | 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Dodatkowe gemy:
+- devise
