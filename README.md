@@ -19,4 +19,3 @@ Battleships - serwis internetowy, w którym użytkownik może zagrać w statki z
 - bootstrap-sass
 - sqlite3 (lokalnie)
 - postgres (heroku)
-- autoprefixer-rails
